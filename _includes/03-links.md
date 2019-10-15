@@ -1,1 +1,1 @@
-[GitHub](https://github.com/ciconianigra)
+[GitHub Profile](https://github.com/ciconianigra)
