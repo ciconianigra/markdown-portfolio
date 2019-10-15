@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Laravel
+- WordPress
