@@ -1,0 +1,7 @@
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Laravel
+- WordPress
